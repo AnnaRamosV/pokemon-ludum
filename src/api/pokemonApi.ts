@@ -4,4 +4,4 @@ const pokemonApi = axios.create({
     baseURL: "https://pokeapi.co/api/v2/pokemon"
 });
 
-export {pokemonApi}
+export {pokemonApi};
